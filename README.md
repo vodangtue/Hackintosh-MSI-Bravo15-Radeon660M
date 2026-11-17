@@ -1,10 +1,17 @@
-# MSI Bravo 15 B7ED — macOS Tahoe with AMD Radeon 660M acceleration
+<h1 align="center">Hackintosh MSI Bravo 15 B7ED</h1>
 
-OpenCore EFI for the **MSI Bravo 15 B7ED** running **macOS Tahoe 26.7.3**, with a
-hardware-accelerated AMD Radeon 660M iGPU (Metal and OpenGL), working audio,
-built-in microphone, Wi-Fi and Bluetooth.
+<p align="center"><b>macOS Tahoe on the MSI Bravo 15 B7ED, with an accelerated AMD Radeon 660M.</b><br>
+OpenCore EFI with Metal/OpenGL graphics, audio, built-in microphone, Wi-Fi and Bluetooth.</p>
 
-<p align="center"><img src="images/about-this-mac.png" alt="About This Mac: AMD Radeon 660M 2 GB, macOS Tahoe 26.7.3" width="280"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-Tahoe%2026.7.3-000000?logo=apple&logoColor=white" alt="macOS Tahoe 26.7.3">
+  <img src="https://img.shields.io/badge/GPU-Radeon%20660M%20(1002%3A1681)-ED1C24?logo=amd&logoColor=white" alt="GPU Radeon 660M">
+  <img src="https://img.shields.io/badge/CPU-Ryzen%205%207535HS-ED1C24?logo=amd&logoColor=white" alt="CPU Ryzen 5 7535HS">
+  <img src="https://img.shields.io/badge/boot-OpenCore-7B5BD6" alt="boot OpenCore">
+  <img src="https://img.shields.io/badge/license-MIT-1E88E5" alt="license MIT">
+</p>
+
+<p align="center"><img src="images/about-this-mac.png" alt="About This Mac: AMD Radeon 660M 2 GB, macOS Tahoe 26.7.3"></p>
 
 ## Hardware
 
